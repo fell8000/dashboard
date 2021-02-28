@@ -1,4 +1,4 @@
-# Dashboard
+# Web Dashboard
 
 : 웹 대시보드를 만들어보는 팀 프로젝트
 
