@@ -1,8 +1,8 @@
 # Dashboard
 
-#web #dashborad #html #css #js #php
+#web #dashborad #html #1595191css #js #php
 
-: 웹 대시보드를 만들어보는 팀 프로젝트
+: 웹 대시보드를 만들어보는 프로젝트
 
 
 ## json 형태로 저장되어있는 userdata를 불러와 대시보드 형태로 출력
