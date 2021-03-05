@@ -21,7 +21,7 @@
 ![design](https://user-images.githubusercontent.com/63782897/109422758-4c257f00-7a20-11eb-8c06-9c399b157184.JPG)
 
 
-### [Layout 이동 기능]
+### [Layout 이동 기능] 
 
 사용자가 자유롭게 ui를 재구성할 수 있음
 
