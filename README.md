@@ -1,6 +1,6 @@
 # WebDashboard
 
-#web #dashborad #html #1595191css #js #php
+#web #dashborad #html #css #js #php
 
 : 웹 대시보드를 만들어보는 프로젝트
 
