@@ -1,8 +1,8 @@
-# Dashboard
+# WebDashboard
 
 #web #dashborad #html #css #js #php
 
-: 웹 대시보드를 만들어보는 팀 프로젝트
+: 웹 대시보드를 만들어보는 프로젝트
 
 
 ## json 형태로 저장되어있는 userdata를 불러와 대시보드 형태로 출력
@@ -21,7 +21,7 @@
 ![design](https://user-images.githubusercontent.com/63782897/109422758-4c257f00-7a20-11eb-8c06-9c399b157184.JPG)
 
 
-### [Layout 이동 기능]
+### [Layout 이동 기능] 
 
 사용자가 자유롭게 ui를 재구성할 수 있음
 
@@ -29,8 +29,8 @@
 
 
 
+#### with 고인물 외 출입금지 팀
 
-### with 고인물 외 출입금지 팀
+#### 사정상 Userdata와 logo등의 정보는 삭제 되었음
 
-### 사정상 Userdata와 logo등의 정보는 삭제 되었음
 
